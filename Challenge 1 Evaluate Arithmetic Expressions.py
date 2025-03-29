@@ -16,4 +16,4 @@ with open(a, 'r') as infile, open(b, 'w') as outfile:
             outfile.write(f"{expr} = {result}\n")
         else:
             outfile.write("Error")
-print(f"Output file generated)
+print("Output file generated")
