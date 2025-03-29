@@ -24,7 +24,7 @@ def send_mail():
 
     msg.attach(MIMEText(b, 'plain'))
 
-  #  img_path = "D:\\Doc\\Photso.jpg"
+    img_path = "Sample.jpg"
 
     try:
         with open(img_path, 'rb') as img_file:
