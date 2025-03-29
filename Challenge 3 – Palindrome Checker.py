@@ -2,6 +2,6 @@ b=input("Enter a String:")
 
 c=b[::-1]
 if b==c:
-    print("String is Palindrome")
+    print(f"The string '{b}' is a palindrome.")
 else:
-    print("String is not Palidrome")
+    print(f"The string '{b}' is not a palidrome.")
