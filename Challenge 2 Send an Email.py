@@ -6,7 +6,7 @@ from email.mime.image import MIMEImage
 
 s = "bhaskarrawat258@gmail.com"
 p = "jcdj tqcq gwxu axir"
-r = "bhaskarrawat258@outlook.com"
+r = "hr@ignitershub.com"
 
 sub = "Challenge 3 Completed"
 b = """
