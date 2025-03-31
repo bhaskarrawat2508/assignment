@@ -1,14 +1,14 @@
-a=input("Enter a String:")
+a=input("Enter a Sentence:")
 
 b=a.split()
 
 c=len(b)
 
-print(c)
+print(f"Number of Words:{c}")
 
 d=b[::-1]
 e=" ".join(d)
-print(e)
+print(f"Reversed sentence:{e}")
 
 f="-".join(b)
-print(f)
+print(f"Modified sentence:{f}")
